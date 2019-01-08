@@ -20,12 +20,17 @@ def nwdv2(a, b):
 
     return b
 
+def testuj():
+    assert(nwdv1(20, 4) == 4)
+    assert(nwdv2(20, 4) == 4)
+    assert(nwdv2(11, 4) == 1)
 
 def main(args):
     a = int(input('Podaj bok a:'))
     b = int(input('Podaj bok b:'))
-    #nwdv1(a, b)
-    print(nwdv2(a, b))
+    #print(nwdv(a, b))
+    testuj()
+    #print(nwdv2(a, b))
     
     return 0
 
