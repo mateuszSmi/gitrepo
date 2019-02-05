@@ -9,8 +9,7 @@
 # BMi >= 30 - otyłość
 
 def main(args):
-    masa = pass
-    wzrost = pass
+    for a in range(7)
     
     
     return 0
