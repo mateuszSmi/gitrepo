@@ -4,12 +4,10 @@
 
 
 def main(args):
-    a = input('Podaj bok a:')
-    b = input('Podaj bok b:')
-
-    obwod = 2 * (int(a) + int (b))
-    print(obwod)
-    return 0
+    a = 1
+    b = 'cos'
+    wynik = a+b
+    print(wynik)
 
 if __name__ == '__main__':
     import sys
