@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Wed, 12 Jun 2019 09:29:53 +0200</pubDate><title><![CDATA[Archiwum 2016/2017]]></title><url><![CDATA[archiwum-20617]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Archiwum 2016/2017]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[archiwum-1]]></parent><content><![CDATA[&lt;h2&gt;wydarzenia z roku szkolnego 2016 2017&lt;/h2&gt;
+
+&lt;p&gt;(% searchresults tags=wydarzenia2016/17 numWords=-1 order=reverseurl %)&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[1]]></menuOrder></item>

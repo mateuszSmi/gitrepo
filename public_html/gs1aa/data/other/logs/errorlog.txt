@@ -1,0 +1,200 @@
+[21-May-2019 15:28:08 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:28:08 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:28:08 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:28:08 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:28:08 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:28:08 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:28:08 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:28:08 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[28-May-2019 16:18:15 Europe/Berlin] PHP Warning:  include(hearder.inc.php): failed to open stream: No such file or directory in /home/kl1ag1/public_html/gs1a/theme/Klasa/template.php on line 2
+[28-May-2019 16:18:15 Europe/Berlin] PHP Warning:  include(): Failed opening 'hearder.inc.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/theme/Klasa/template.php on line 2
+[28-May-2019 16:18:15 Europe/Berlin] PHP Warning:  include(hearder.inc.php): failed to open stream: No such file or directory in /home/kl1ag1/public_html/gs1a/theme/Klasa/template.php on line 2
+[28-May-2019 16:18:15 Europe/Berlin] PHP Warning:  include(): Failed opening 'hearder.inc.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/theme/Klasa/template.php on line 2
+[28-May-2019 16:18:26 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[28-May-2019 16:18:26 Europe/Berlin] PHP Warning:  include(hearder.inc.php): failed to open stream: No such file or directory in /home/kl1ag1/public_html/gs1a/theme/Klasa/template.php on line 2
+[28-May-2019 16:18:26 Europe/Berlin] PHP Warning:  include(): Failed opening 'hearder.inc.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/theme/Klasa/template.php on line 2
+[28-May-2019 16:18:27 Europe/Berlin] PHP Warning:  include(hearder.inc.php): failed to open stream: No such file or directory in /home/kl1ag1/public_html/gs1a/theme/Klasa/template.php on line 2
+[28-May-2019 16:18:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'hearder.inc.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/theme/Klasa/template.php on line 2
+[29-May-2019 09:10:56 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/template_functions.php on line 1043
+[29-May-2019 09:31:51 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[29-May-2019 09:31:56 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[29-May-2019 09:31:57 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[29-May-2019 09:37:23 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; I18nNavigationItem has a deprecated constructor in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 349
+[29-May-2019 09:37:23 Europe/Berlin] PHP Parse error:  syntax error, unexpected ':' in /home/kl1ag1/public_html/gs1a/theme/Klasa/template.php on line 9
+[29-May-2019 09:37:32 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[29-May-2019 09:37:32 Europe/Berlin] PHP Parse error:  syntax error, unexpected ':' in /home/kl1ag1/public_html/gs1a/theme/Klasa/template.php on line 9
+[29-May-2019 09:37:37 Europe/Berlin] PHP Parse error:  syntax error, unexpected ':' in /home/kl1ag1/public_html/gs1a/theme/Klasa/template.php on line 9
+[29-May-2019 09:38:09 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[29-May-2019 09:41:13 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:03:40 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/template_functions.php on line 1043
+[04-Jun-2019 11:03:46 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; I18nNavigationItem has a deprecated constructor in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 349
+[04-Jun-2019 11:03:46 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:04:04 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/upload.php on line 183
+[04-Jun-2019 11:04:04 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/upload.php on line 235
+[04-Jun-2019 11:04:04 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/upload.php on line 271
+[04-Jun-2019 11:04:04 Europe/Berlin] PHP Notice:  A non well formed numeric value encountered in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 1198
+[04-Jun-2019 11:04:04 Europe/Berlin] PHP Notice:  A non well formed numeric value encountered in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 1198
+[04-Jun-2019 11:08:15 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; I18nNavigationItem has a deprecated constructor in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 349
+[04-Jun-2019 11:08:15 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:08:15 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/upload.php on line 183
+[04-Jun-2019 11:08:15 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/upload.php on line 235
+[04-Jun-2019 11:08:15 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/upload.php on line 271
+[04-Jun-2019 11:08:15 Europe/Berlin] PHP Notice:  A non well formed numeric value encountered in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 1198
+[04-Jun-2019 11:08:15 Europe/Berlin] PHP Notice:  A non well formed numeric value encountered in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 1198
+[04-Jun-2019 11:10:43 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; I18nNavigationItem has a deprecated constructor in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 349
+[04-Jun-2019 11:10:43 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:10:43 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:10:43 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:10:43 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:10:43 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:10:43 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:10:43 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:11:57 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/changedata.php on line 60
+[04-Jun-2019 11:11:57 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:11:57 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:11:57 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:11:57 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:11:57 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:11:58 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:11:58 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:11:58 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:11:58 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:11:58 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:11:58 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:11:58 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:11:58 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:11:58 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:13:19 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/changedata.php on line 52
+[04-Jun-2019 11:13:19 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:13:19 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:13:22 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:22 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:22 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:22 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:22 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:22 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:22 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:22 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:22 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:13:24 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:24 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:24 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:24 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:24 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:24 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:24 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:24 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:24 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:13:26 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:26 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:26 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:26 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:26 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:26 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:26 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:26 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:26 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:13:28 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:28 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:28 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:28 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:28 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:28 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:28 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:28 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:13:29 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:29 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:29 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:29 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:29 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:29 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:29 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:29 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:29 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:13:30 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:30 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:30 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:30 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:30 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:30 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:30 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:30 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:30 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:14:42 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/changedata.php on line 52
+[04-Jun-2019 11:14:42 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:14:42 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:14:50 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/changedata.php on line 52
+[04-Jun-2019 11:14:50 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:14:50 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:14:52 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:14:52 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:14:52 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:14:52 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:14:52 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:14:52 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:14:52 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:14:52 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:14:52 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:14:52 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:14:52 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:15:44 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; I18nNavigationItem has a deprecated constructor in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 349
+[04-Jun-2019 11:15:44 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:15:44 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:15:44 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:15:44 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:15:44 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:15:44 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:15:44 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:15:44 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:15:44 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:15:44 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:15:44 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:16:06 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; I18NNavigationItem has a deprecated constructor in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 349
+[04-Jun-2019 11:16:06 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:16:06 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:16:06 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:16:06 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:16:06 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:16:06 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:16:06 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:16:06 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:16:06 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:16:06 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:16:06 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:19:50 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; I18nNavigationItem has a deprecated constructor in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 350
+[04-Jun-2019 11:19:50 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:19:57 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:20:26 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:20:26 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:22:40 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:22:50 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:23:02 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:23:18 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:23:20 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:23:25 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:24:16 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:24:22 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:24:24 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:24:27 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:24:32 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:24:37 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:28:05 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/Klasa/header.inc.php on line 31
+[04-Jun-2019 11:31:58 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:32:00 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:32:07 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/upload.php on line 183
+[04-Jun-2019 11:32:07 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/upload.php on line 235
+[04-Jun-2019 11:32:07 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/upload.php on line 271
+[04-Jun-2019 11:32:07 Europe/Berlin] PHP Notice:  A non well formed numeric value encountered in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 1198
+[04-Jun-2019 11:32:07 Europe/Berlin] PHP Notice:  A non well formed numeric value encountered in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 1198

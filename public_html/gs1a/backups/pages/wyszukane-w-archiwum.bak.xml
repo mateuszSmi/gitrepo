@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Wed, 12 Jun 2019 09:40:18 +0200</pubDate><title><![CDATA[Wyszukane w archiwum]]></title><url><![CDATA[wyszukane-w-archiwum]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Wyszukane w archiwum]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[archiwum-1]]></parent><content><![CDATA[&lt;p&gt;(% searchform showTags=0 %)&lt;/p&gt;
+
+&lt;p&gt;(%&amp;nbsp;searchresults %)&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>

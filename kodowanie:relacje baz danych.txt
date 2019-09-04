@@ -1,0 +1,8 @@
+====== relacje baz danych ======
+Created piątek 08 lutego 2019
+
+relacja jeden do wielu- przciagnac id na klucz obcy
+
+<600000 mniej
+>600000 wiecej
+Between 600000 And 1000000 pomierdzy
