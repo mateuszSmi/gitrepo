@@ -33,7 +33,10 @@ int main(int argc, char **argv)
     else if(b==sqrt(a*a+c*c)){
     cout << "to trojkat prostokatny";}
     else if(a==sqrt(b*b+c*c)){
-    cout << "to trojkat prostokatny";
+    cout << "to trojkat prostokatny";}
+    else {
+    cout << "nie jest to trojkat prostokatny";
+        
 
 
 
