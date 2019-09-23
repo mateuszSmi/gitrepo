@@ -7,7 +7,7 @@
 
 
 #include <iostream>
-#imclude <cmath>
+#include <cmath>
 using namespace std;
 
 
@@ -27,12 +27,16 @@ int main(int argc, char **argv)
     else if (c+b<=a){
     cout << "nie można zbudować trójkąta";}
     else {
-    cout << "to trójkąt";}
+    cout << "to trójkąt"<< endl;}
     if(c==sqrt(a*a+b*b)){
-    cout << "to trojkąt prostokątny";
-    
+    cout << "to trojkat prostokatny";}
+    else if(b==sqrt(a*a+c*c)){
+    cout << "to trojkat prostokatny";}
+    else if(a==sqrt(b*b+c*c)){
+    cout << "to trojkat prostokatny";
 
-    
+
+
 }
 	return 0;
 }
