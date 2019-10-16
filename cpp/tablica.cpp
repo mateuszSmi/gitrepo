@@ -21,9 +21,9 @@ int main(int argc, char **argv)
         cout<<tablica[i]<<" ";
         }
         cout<<endl;
-        for(i=0;i<rozmiar;i++){
-    cout<<tablica[i]<<" ";
-    }
+    for(i=1;i<=rozmiar;i++){
+        cout<<tablica[rozmiar - (i)]<<" ";
+        }
 	return 0;
 }
 
