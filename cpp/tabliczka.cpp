@@ -17,7 +17,7 @@ int main(int argc, char **argv)
     int i,j;
     
     srand(time(NULL));//inicjacja generatora liczb pseudolosowych
-    for(i=1;i<N;i++){
+    for(i=0;i<N;i++){
         cout<<i ;
      //   cout<<"====="<<"Tablica "<<i<<"====="<<endl;
         for(j=0;j<M;j++){
