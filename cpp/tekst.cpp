@@ -12,20 +12,25 @@ int main(int argc, char **argv)
 {
 	char tekst[ROZMIAR];
     int i = 0;
+    int n = 1;
     cout<<"Podaj zdanie: "<<endl;
-   // cin>>tekst;
     cin.getline(tekst, ROZMIAR);
-    //cout<<tekst;
     for (i=0;i<ROZMIAR;i++){
-        cout<<tekst[i];
+        if(tekst[i]==' '){
+            n+=1;
+            }
         }
-        cout<<endl;
-        i=0;
+        cout<<"Zdanie składa się z "<<n<<" wyrazów.";
+        
         while (tekst[i] != '\0'){
             cout<<tekst[i];
             i++;
+            if(tekst[i]==' '){
+            n+=1;
+            }
             }
             cout<<endl;
+            cout<<"Zdanie składa się z "<<n<<" wyrazów.";
 	return 0;
 }
 
