@@ -1,0 +1,36 @@
+<p>Wybierz samochód:</p>
+<select id="samochody" onchange="displayCar()">
+  <option value="audi">Audi</option>
+  <option value="bmw">BMW</option>
+  <option value="mrecedes">Mercedes</option>
+  <option value="ford">Ford</option>
+  </selcet>
+<form onsubmit="return formCjeck()">
+<p><input type="text" onchange="displayTxt()"></p>
+  <p><input type="submit" value="wyslij"></p>
+</form>
+<div id="wybor" class="wybor"></div>
+<div id="text" class="text"></div>
+
+<button onlick="cleanTxt()">czyść</button>
+<script>
+  function displayCar(){
+   var x =document.getElementsByClassName("wybor");
+    x[0].innerHTML = "wybrałeś: " + document.getElementById("samochody").value;
+  }
+  function displayTxt(){
+    var x =document.getElementById("text");
+    x.innerHTML = "wpisałeś: " + document.getElementsByTagName("input")[0].value;
+  }
+  function cleanTxt(){
+  document.getElementsByTagName("input")[0].value= ' ';
+  }
+  function formCheck(){
+    var tresc = document.getElementsByTagName("input")[0].value;
+    czyOK="true";
+    if(tresc.lenght<0){
+      document.getElementById('komunikat').innerHTML = "za krótkie hasło";
+      czyOK="false";
+    }
+  }
+</script>
