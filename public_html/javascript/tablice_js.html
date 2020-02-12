@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pl;">
+<head>
+    <meta charset="utf-8" />
+    <title>Użycie tablic w JavaScripcie</title>
+</head>
+
+<body>
+
+<p id="samochod"></p>
+<input type="text" id="indeks">
+<button onclick="auto()">Wpisz</button>
+    <script type="text/javascript">
+        var cars = ["Saab", "Fiat", "Opel"];
+        function auto(){
+        var x = document.getElementById("indeks").value;
+        if(x>1 && x< cars.length){
+        alert(cars[x]);
+            }
+        else{
+            alert("Wprowadziłeś zły indeks");
+        }
+            
+    }
+    </script>
+</body>
+
+</html>
