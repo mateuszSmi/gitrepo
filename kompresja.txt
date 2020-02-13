@@ -1,0 +1,32 @@
+kompresja danych
+================
+Created czwartek 13 lutego 2020
+
+jest to zmniejszenie wielkości danych
+
+ Rodzaje kompresji
+-7zip(najbardziej korzystny)
+-zip
+-xz
+-rar
+w tych typach plikow zostaje zastosowana kompresja bezstratna(mozna odzyskac pliki bez straty)
+
+1b(bit)  * 8  = 1B(Bajt)
+1024B=1 kB
+1000B = 1kB
+1024kB=1MB
+1024MB=1GB
+1024GB=1TB
+
+11111111(2)=255(10)
+UTF-8= 2 bajty uzywa sie do zapisania znaków
+
+Przepustowosc jest podawanach w bitach(predkosc lacza intenetu)
+
+Współczynnik kompresji(trzeba wyrazić w tych samych jednostakch):
+Rc = Vk / Vnk * 100%
+Vnk-objetosc danych niezkompresowanych
+Vnk=776kB
+Vk=91,8kB
+Rc=11,8%
+R`c = (1 - Vk/Vnk) * 100%=88%
