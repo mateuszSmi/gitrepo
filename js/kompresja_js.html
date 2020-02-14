@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8" />
+<title>Kompresja danych</title>
+</head>
+
+<body>
+<p>Podaj Vk: </p>
+<input id="Vk">
+<br>
+<p>Podaj Vnk: </p>
+<input id="Vnk"><br>
+<button onclick="Obliczanie()">Oblicz współczynnik kompresji</button>
+<p id="Rc"></p>
+<p id="Rc`"></p>
+<script>
+    var x = document.getElementById("Vk").value;
+    var y = document.getElementById("Vnk").value;
+    function Obliczanie(){
+        if(parseInt(x)>parseInt(y)){
+            alert("Błędne dane");}
+        else{
+        document.getElementById("Rc").innerHTML = "Współczynnik kompresji wynosi " + x*100/y +" %";
+        document.getElementById("Rc`").innerHTML = "Współczynnik kompresji wynosi` " + (1-x/y)*100 +" %";
+    }}
+</script>
+</body>
+
+</html>
