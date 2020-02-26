@@ -20,4 +20,16 @@ $(document).ready(function(){
   $("#obraz2").mouseover(function(){
     $(this).hide();
   });
+  $("#img1").mouseover(function(){
+    $("#img2").hide(10);
+  });
+  $("#img1").mouseout(function(){
+    $("#img2").show(10);
+  });
+  $("#img2").mouseover(function(){
+    $("#img1").hide(10);
+  });
+  $("#img2").mouseout(function(){
+    $("#img1").show(10);
+  });
 });
