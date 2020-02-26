@@ -14,4 +14,10 @@ $(document).ready(function(){
   $("input").mouseout(function(){
     $(this).removeClass("tloBlue");
   });
+  $("#obraz1").dblclick(function(){
+    $(this).hide();
+  });
+  $("#obraz2").mouseover(function(){
+    $(this).hide();
+  });
 });
