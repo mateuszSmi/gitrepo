@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="utf-8" />
+    <title>Kalkulaotr</title>
+    <link rel="stylesheet" href="jquery.css">
+    <script src="jquery-3.4.1.min.js"></script>
+
+<!--
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+-->
+</head>
+<body>
+  <h1>Kalkulator</h1>
+  <br>
+  <button type="button" id="czyszczenie">Wyczyść</button>
+  <br>
+      <label for="l1">Liczba1:</label>
+      <input type="text" id="l1">
+      <label for="l2">Liczba2</label>
+      <input type="text" id="l2">
+      <br>
+      <div class="wynik">Wynik:</div>
+      <br>
+        <button type="button" id="dodawanie">+</button>
+        <button type="button" id="odejmowanie">-</button>
+        <button type="button" id="mnozenie">*</button>
+        <button type="button" id="dzieleinie">/</button>
+  <script>
+  $(document).ready(function(){
+  var l1=parseInt($("#l1").val());
+  var l2=parseInt($("#l2").val());
+  $("#dodawanie").click(function(){
+    var dodawanie=l1+l2;
+    $("div.wynik").text(dodawanie);
+  });
+  $("#odejmowanie").click(function(){
+    var dodawanie=l1-l2;
+    $("div.wynik").text(dodawanie);
+  });
+  $("#mnozenie").click(function(){
+    var dodawanie=l1*l2;
+    $("div.wynik").text(dodawanie);
+  });
+  $("#dzieleinie").click(function(){
+    if(l2!=0){
+    var dodawanie=l1/l2;}
+    else{
+      window.alert("Nie dziel przez zero!");
+    }
+    $("div.wynik").text(dodawanie);
+  });
+  $("#czyszczenie").click(function(){
+    $(".wynik").hide();
+  });
+
+
+      });
+
+  </script>
+
+</body>
+
+</html>
